@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\JS\\main.js",
+      "PackagePath": "staticwebassets\\JS\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\JS\\operations.js",
+      "PackagePath": "staticwebassets\\JS\\operations.js"
+    },
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\assets\\icons\\delete_point.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\delete_point.png"
+    },
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\assets\\icons\\maps-and-flags.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\maps-and-flags.png"
+    },
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\assets\\icons\\show_icon.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\show_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\assets\\icons\\update_point.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\update_point.png"
+    },
+    {
+      "Id": "C:\\Users\\edayi_mxuaz17\\source\\repos\\MapApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MapApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MapApp.props",
+      "PackagePath": "build\\MapApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MapApp.props",
+      "PackagePath": "buildMultiTargeting\\MapApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MapApp.props",
+      "PackagePath": "buildTransitive\\MapApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
